@@ -1,5 +1,5 @@
 # Basic Maven Commands
-| Command | Function |
+| COMMAND | FUNCTION |
 | :---: | :--- |
 | `mvn clean` | Remove target directory, which contains compiled classes, test results and the final JAR/WAR file. |
 | `mvn install` | Install packaged artifact (JAR, WAR) into local Maven repository. |

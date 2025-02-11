@@ -1,5 +1,5 @@
 # Basic VIM Operations
-| Command | Function |
+| COMMAND | FUNCTION |
 | :---: | :--- |
 | `i` | Enter 'insert' mode to begin writing. |
 | `esc` | Escape to *default* mode. |
