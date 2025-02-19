@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "ded61829bd019157",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fda718abaa61a3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "063a8f6b3e6ec0e7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "d0149561754b0e8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "network/00_networking.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "00_networking"
+            }
+          },
+          {
+            "id": "03aeb3e4a05e37ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "network/01_network_fundamentals.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "01_network_fundamentals"
+            }
+          },
+          {
+            "id": "7479060577214123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "network/02_cabling_devices.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "02_cabling_devices"
+            }
+          },
+          {
+            "id": "206ffa451a4c016a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "network/03_osi_model.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "03_osi_model"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "555c70a93fe6ada0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4dba168a7d3bad8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64aeb26853bfd4fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8add2b9ce129f37e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e4e9bd5897d0a09f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e06365072a4127b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8f7944378147e50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "835b749add24dc42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "17648b1cce16f1b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "e6ce46135a09f8f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "39b2388257f698fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7479060577214123",
+  "lastOpenFiles": [
+    "network/01_network_fundamentals.md",
+    "development/00_development.md",
+    "network/03_osi_model.md",
+    "network/02_cabling_devices.md",
+    "BRAIN.md",
+    "network/00_networking.md",
+    "README.md",
+    "network/04_ip_addresses.md",
+    "software_assurance/threat_modeling.md",
+    "development/git_cheat_sheet.md",
+    "network",
+    "development/maven.md",
+    "development/bash_scripting.md"
+  ]
+}
