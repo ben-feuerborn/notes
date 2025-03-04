@@ -17,3 +17,6 @@ Service Provider Network
 
 LAN (Local Area Network)
 WAN (Wide Area Network)
+
+# NETWORK BASICS
+<!-- watch "Computer Networks Basics" in D2L -->

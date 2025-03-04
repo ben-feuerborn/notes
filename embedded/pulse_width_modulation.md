@@ -1,0 +1,1 @@
+period is dependent on the `top` value taken from the table (Table 17-2)

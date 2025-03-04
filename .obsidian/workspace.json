@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "d0149561754b0e8a",
+            "id": "2ab27a903fa4597a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,51 +32,9 @@
               "icon": "lucide-file",
               "title": "00_networking"
             }
-          },
-          {
-            "id": "03aeb3e4a05e37ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "network/01_network_fundamentals.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "01_network_fundamentals"
-            }
-          },
-          {
-            "id": "7479060577214123",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "network/02_cabling_devices.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "02_cabling_devices"
-            }
-          },
-          {
-            "id": "206ffa451a4c016a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "network/03_osi_model.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "03_osi_model"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,17 +107,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "network/03_osi_model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 03_osi_model"
             }
           },
           {
@@ -223,20 +181,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7479060577214123",
+  "active": "2ab27a903fa4597a",
   "lastOpenFiles": [
-    "network/01_network_fundamentals.md",
+    "development/java/01_java.md",
     "development/00_development.md",
-    "network/03_osi_model.md",
-    "network/02_cabling_devices.md",
-    "BRAIN.md",
     "network/00_networking.md",
+    "development/java/java_polymorphism.md",
+    "development/java/java_collections.md",
+    "development/java/java_streams.md",
+    "development/java/java_generics.md",
+    "development/java",
+    "development/bash_scripting.md",
+    "embedded/lcd_screen.md",
+    "software_assurance/threat_modeling.md",
+    "software_assurance/vulnerabilities_and_threats.md",
+    "network/01_network_fundamentals.md",
+    "software_assurance/Untitled.md",
+    "network/02_cabling_devices.md",
+    "development/vim.md",
+    "embedded/pulse_width_modulation.md",
+    "embedded/timers.md",
+    "embedded/00_embedded.md",
+    "hobos.md",
+    "embedded/interrupts.md",
+    "development/java",
+    "BRAIN_OVERLAY.canvas",
+    "BRAIN.md",
+    "00_embedded.md",
+    "embedded",
+    "network/03_osi_model.md",
+    "development/git_cheat_sheet.md",
     "README.md",
     "network/04_ip_addresses.md",
-    "software_assurance/threat_modeling.md",
-    "development/git_cheat_sheet.md",
-    "network",
-    "development/maven.md",
-    "development/bash_scripting.md"
+    "network"
   ]
 }

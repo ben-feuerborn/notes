@@ -1,7 +1,7 @@
 # BRAIN CONNECTIONS
 [[BRAIN]]
 
-[[00_networking]] (you are here)
+[[00_networking]] (*you are here*)
 
 [[01_network_fundamentals]]
 [[02_cabling_devices]]
@@ -10,3 +10,17 @@
 
 <!-- putting this here because I have a feeling it will eventually hook up with what I'm doing here -->
 [[threat_modeling]]
+[[vulnerabilities_and_threats]]
+
+## LOOK INTO
+watch networks video
+
+ssh/telnet
+tcp/ip (tcp 3-way handshake)
+nmap and manual page
+tracerouting
+icmp
+
+openvas
+wireshark
+medusa

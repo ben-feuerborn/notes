@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"bcb549196fd00d56","type":"file","file":"README.md","x":-1280,"y":-120,"width":400,"height":400},
+		{"id":"48cdc4cfeffdcdea","type":"file","file":"BRAIN.md","x":-720,"y":-120,"width":400,"height":400},
+		{"id":"551dfdedb92ac263","type":"file","file":"network/00_networking.md","x":-160,"y":160,"width":400,"height":400},
+		{"id":"37dae29df6824945","type":"file","file":"development/00_development.md","x":-160,"y":-400,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"5ea6e56de5e20338","fromNode":"bcb549196fd00d56","fromSide":"right","toNode":"48cdc4cfeffdcdea","toSide":"left"},
+		{"id":"dbf50383cc421a4b","fromNode":"48cdc4cfeffdcdea","fromSide":"right","toNode":"37dae29df6824945","toSide":"left"},
+		{"id":"783ef7ee1b9aa08a","fromNode":"48cdc4cfeffdcdea","fromSide":"right","toNode":"551dfdedb92ac263","toSide":"left"}
+	]
+}
