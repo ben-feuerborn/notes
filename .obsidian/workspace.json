@@ -20,17 +20,45 @@
             }
           },
           {
+            "id": "2dd3e1b43f0abf59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "development/git_cheat_sheet.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "git_cheat_sheet"
+            }
+          },
+          {
             "id": "2ab27a903fa4597a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "network/00_networking.md",
+                "file": "network/01_network_fundamentals.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "00_networking"
+              "title": "01_network_fundamentals"
+            }
+          },
+          {
+            "id": "96f2cea7e76f12ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "software_assurance/vulnerabilities_and_threats.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "vulnerabilities_and_threats"
             }
           }
         ],
@@ -181,38 +209,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ab27a903fa4597a",
+  "active": "2dd3e1b43f0abf59",
   "lastOpenFiles": [
-    "development/java/01_java.md",
-    "development/00_development.md",
-    "network/00_networking.md",
-    "development/java/java_polymorphism.md",
-    "development/java/java_collections.md",
-    "development/java/java_streams.md",
-    "development/java/java_generics.md",
-    "development/java",
-    "development/bash_scripting.md",
-    "embedded/lcd_screen.md",
-    "software_assurance/threat_modeling.md",
-    "software_assurance/vulnerabilities_and_threats.md",
+    "ASSIGNMENT 8 RUN GUIDE.md",
     "network/01_network_fundamentals.md",
-    "software_assurance/Untitled.md",
-    "network/02_cabling_devices.md",
+    "software_assurance/vulnerabilities_and_threats.md",
+    "software_assurance/threat_modeling.md",
+    "network/00_networking.md",
+    "development/java/java_collections.md",
+    "development/java/java_generics.md",
+    "development/java/java_polymorphism.md",
+    "development/00_development.md",
+    "development/bash_scripting.md",
+    "development/git_cheat_sheet.md",
+    "development/maven.md",
     "development/vim.md",
+    "embedded/00_embedded.md",
+    "embedded/interrupts.md",
+    "embedded/lcd_screen.md",
     "embedded/pulse_width_modulation.md",
     "embedded/timers.md",
-    "embedded/00_embedded.md",
+    "network/02_cabling_devices.md",
+    "network/03_osi_model.md",
+    "network/04_ip_addresses.md",
+    "development/java/01_java.md",
+    "development/java/java_streams.md",
+    "development/java",
+    "software_assurance/Untitled.md",
     "hobos.md",
-    "embedded/interrupts.md",
     "development/java",
     "BRAIN_OVERLAY.canvas",
     "BRAIN.md",
-    "00_embedded.md",
     "embedded",
-    "network/03_osi_model.md",
-    "development/git_cheat_sheet.md",
-    "README.md",
-    "network/04_ip_addresses.md",
     "network"
   ]
 }
